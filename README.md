@@ -2,4 +2,5 @@
 Solve challenging mathematical/computer programming problems with C++
 
 ## Progress Status
-Solving Problem 1
+Solved Problem 1
+Solving Problem 2
