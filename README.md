@@ -1,5 +1,5 @@
-# Project-Euler-Cpp
-Solve challenging mathematical/computer programming problems with C++
+# Project-Euler
+Solve challenging mathematical/computer programming problems with C++ and Python
 
 ## Progress Status
 - [x] Problem 1
